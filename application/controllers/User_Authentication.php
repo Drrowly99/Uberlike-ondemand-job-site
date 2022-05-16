@@ -16,8 +16,8 @@ require_once APPPATH . "libraries/google-api-php-client-master/src/Google/Client
 require_once APPPATH . "libraries/google-api-php-client-master/src/Google/Service/Oauth2.php";
 
 // Store values in variables from project created in Google Developer Console
-$client_id = '206177989583-rsnraeeed95ts05cq8o73uj0nu012r5t.apps.googleusercontent.com';
-$client_secret = 'PIlP6MIrN0iXaqBhULAeeuE2';
+$client_id = //'206177989583-03804280482429d95ts05cq8o7.apps.googleusercontent.com';
+$client_secret = // 'PIlP6MIrKJoUI9uHBNDeeuE2';
 $redirect_uri = 'http://localhost/ci_google_oauth/';
 $simple_api_key = '< Generated Server/API Key >';
 
