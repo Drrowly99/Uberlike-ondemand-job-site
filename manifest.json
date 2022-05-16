@@ -1,0 +1,25 @@
+{
+  "name": "DADI",
+  "short_name": "DADI",
+  "icons": [{
+        "src": "asset/image/dadi128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      }, {
+        "src": "asset/image/dadi152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      }, {
+        "src": "asset/image/dadi144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }, {
+        "src": "asset/image/dadi192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }],
+  "start_url": "http://localhost/dadibeta/Main/network",
+  "display": "standalone",
+  "background_color": "#9c27b0",
+  "theme_color": "#9c27b0"
+}
